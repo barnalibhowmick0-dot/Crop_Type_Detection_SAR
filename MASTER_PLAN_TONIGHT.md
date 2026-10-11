@@ -1,9 +1,5 @@
 # MASTER PLAN 
 **Mainpuri · Rabi 2025-26 · Sentinel-1 · Random Forest · GitHub Pages dashboard**
-
-> Read Part 0 first (2 minutes). Everything else is reference you open when you need it.
-> I could not run the Earth Engine code on a live account. It is syntax-checked and smoke-tested, but if a script throws an error, copy the red message and the line number back to me and I will fix it.
-
 ---
 
 ## PART 0 — The 2-minute summary
