@@ -1,4 +1,4 @@
-# MASTER PLAN — Finish the SAR Crop-Mapping Assignment Tonight
+# MASTER PLAN 
 **Mainpuri · Rabi 2025-26 · Sentinel-1 · Random Forest · GitHub Pages dashboard**
 
 > Read Part 0 first (2 minutes). Everything else is reference you open when you need it.
